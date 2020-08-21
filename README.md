@@ -1,4 +1,4 @@
-### Welcome to the GitHub repository of the Scalable Systems and Software Research Group at Lehigh University
+### Welcome to the GitHub repository of the Scalable Systems and Software Research Group at Lehigh University. Visit us at http://sss.cse.lehigh.edu/
 
 <!--
 **sss-lehigh/sss-lehigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
